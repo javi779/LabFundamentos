@@ -14,7 +14,7 @@ int main(){
     cout<<"Escriba un numero: ";
     cin>>e3;
 
-    prom=(e1+e2+e3)/3;
+    prom=(e1+e2+e3)/3.0;
 
     cout<<"Su promedio es: "<<prom<<endl;
 
